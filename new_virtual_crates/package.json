@@ -1,9 +1,11 @@
 {
   "devDependencies": {
-    "@angular-devkit/build-angular": "^13.1.0",
+    "@angular-devkit/build-angular": "^13.1.1",
     "typescript": "^4.4.3"
   },
   "dependencies": {
-    "@angular/cli": "^13.1.1"
+    "@angular/cli": "^13.1.1",
+    "@angular/core": "^13.1.0",
+    "@angular/platform-browser": "^13.1.0"
   }
 }
