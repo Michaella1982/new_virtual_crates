@@ -13,7 +13,4 @@ if (environment.production) {
 
 platformBrowser().bootstrapModule(AppModule)
   .catch(err => console.error(err));
-function platformBrowserDynamic(): void {
-  throw new Error('Function not implemented.');
-}
 
